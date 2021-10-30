@@ -10,11 +10,11 @@ Provide data analysis on crowdfunding campaigns around the world to help determi
 
 ### Analysis of Outcomes Based on Launch Date
 I created a pivot table to analyze the outcomes of theater crowdfunding campaigns and launch date by month
-<img src = "extra_resources/Theater_Outcomes_vs_Launchdate_Analysis.png" width= "500">
+<img width="1440" alt="Theater_Outcomes_vs_Launchdate_Analysis" src="https://user-images.githubusercontent.com/91927712/139543375-29f0a204-f5cc-4204-bb8b-b89b8b5a81bb.png">
 
 ### Analysis of Outcomes Based on Goals
 I created a pivot table to analyze play crowdfunding campaign goals and the outcomes
-![alt text] (https://github.com/azusenaarroyo/kickstarter-analysis/blob/main/Kickstarter%20Challenge/extra_resources/Outcomes_vs_Goals_Analysis.png)
+<img width="1440" alt="Outcomes_vs_Goals_Analysis" src="https://user-images.githubusercontent.com/91927712/139543300-e0442c6d-b652-4e19-9ee4-7f32f8df927b.png">
 
 ### Challenges and Difficulties Encountered
 I came across challenges in my COUNTIF equation where I made mistakes of the direction of the angle brackets which was yielding wrong results. 
