@@ -14,7 +14,7 @@ I created a pivot table to analyze the outcomes of theater crowdfunding campaign
 
 ### Analysis of Outcomes Based on Goals
 I created a pivot table to analyze play crowdfunding campaign goals and the outcomes
-https://github.com/azusenaarroyo/kickstarter-analysis/blob/main/Kickstarter%20Challenge/extra_resources/Outcomes_vs_Goals_Analysis.png
+![alt text] (https://github.com/azusenaarroyo/kickstarter-analysis/blob/main/Kickstarter%20Challenge/extra_resources/Outcomes_vs_Goals_Analysis.png)
 
 ### Challenges and Difficulties Encountered
 I came across challenges in my COUNTIF equation where I made mistakes of the direction of the angle brackets which was yielding wrong results. 
